@@ -28,7 +28,7 @@ const About = () => {
             <article className='about__card'>
               <VscProject className='about__icon' />
               <h5>Projects</h5>
-              <small>6 Projects</small>
+              <small>4 Projects</small>
             </article>
             <article className='about__card'>
               <LiaCertificateSolid className='about__icon' />
