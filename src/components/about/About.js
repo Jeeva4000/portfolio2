@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import ME from '../../assests/j1.jpg';
+import ME from '../../assests/MERN-Stack-Development.png';
 import { FaAward } from 'react-icons/fa';
 import { VscProject } from 'react-icons/vsc';
 import { LiaCertificateSolid } from 'react-icons/lia';
