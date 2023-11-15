@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import ME from '../../assests/MERN-Stack-Development.png';
+import ME from '../../assests/MEAN-Stack-Work.gif';
 import { FaAward } from 'react-icons/fa';
 import { VscProject } from 'react-icons/vsc';
 import { LiaCertificateSolid } from 'react-icons/lia';
