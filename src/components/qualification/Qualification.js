@@ -1,22 +1,22 @@
 import React from 'react';
 import './qualification.css';
-import { LiaSchoolSolid} from "react-icons/lia"
-import {IoSchoolSharp} from "react-icons/io5"
-import {LiaCertificateSolid} from "react-icons/lia"
+import { LiaSchoolSolid } from "react-icons/lia"
+import { IoSchoolSharp } from "react-icons/io5"
+import { LiaCertificateSolid } from "react-icons/lia"
 
 const Qualification = () => {
   return (
     <section id='qualification'>
       <h5>My Qualification</h5>
       <h2>Qualification</h2>
-     
+
       <div className='qualification__content'>
 
         <article className='qualification__item'>
-        <LiaSchoolSolid className='qualification__details-icon'/>
+          <LiaSchoolSolid className='qualification__details-icon' />
 
           <div>
-            <h3>SSC</h3>
+            <h3>SSLC</h3>
             <p>S.V.HR.SEC.School,Kaniyur</p>
             <p>Graduated: May 2016</p>
           </div>
@@ -24,7 +24,7 @@ const Qualification = () => {
         </article>
 
         <article className='qualification__item'>
-        <IoSchoolSharp className='qualification__details-icon'/>
+          <IoSchoolSharp className='qualification__details-icon' />
 
           <div>
             <h3>DIPLOMA</h3>
@@ -35,11 +35,11 @@ const Qualification = () => {
         </article>
 
         <article className='qualification__item'>
-        <LiaCertificateSolid className='qualification__details-icon'/>
+          <LiaCertificateSolid className='qualification__details-icon' />
 
           <div>
             <h3>MERN-Fresher</h3>
-            <p> 
+            <p>
               GUVI Geek Networks, <br />
               IITM Research Park</p>
             <p>2023-Present</p>
@@ -49,8 +49,8 @@ const Qualification = () => {
 
 
 
-        </div>
-      
+      </div>
+
     </section>
   );
 }
