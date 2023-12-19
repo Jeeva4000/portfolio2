@@ -173,7 +173,7 @@ const Skill = () => {
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
-            {/* Add more deployment skills or details as needed */}
+
           </div>
         </div>
       </div>
