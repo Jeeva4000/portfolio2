@@ -4,8 +4,8 @@ import React from 'react'
 const CTA = () => {
   return (
     <div className='cta'>
-
-      <a href='https://drive.google.com/file/d/1IUeCngMxk27QdMR4fWJ2nSDmu8Bt9Z8J/view?usp=sharing' download className='btn'>Download Cv</a>
+      {/* <a href={CV} download className='btn'>Resume</a> */}
+      <a href='https://drive.google.com/file/d/1IUeCngMxk27QdMR4fWJ2nSDmu8Bt9Z8J/view?usp=sharing' target="_blank" rel='noreferrer' className='btn'>Resume</a>
       <a href='#contact' className='btn btn-primary'>Let's Talk</a>
 
     </div>

@@ -35,7 +35,7 @@
 .about__card {
 
     background: var(--color-bg-variant);
-    border: 1px solid transparent;
+    border: 5px solid transparent;
     border-radius: 0.5rem;
     padding: 1.5rem;
     text-align: center;

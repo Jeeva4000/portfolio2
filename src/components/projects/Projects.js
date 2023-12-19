@@ -1,11 +1,11 @@
 import React from 'react'
 import './projects.css'
 import IMG1 from '../../assests/scrape (2).png'
-import IMG2 from '../../assests/catalog.png'
+import IMG2 from '../../assests/Screenshot (41).png'
 import IMG3 from '../../assests/appnotes.png'
-import IMG4 from '../../assests/Screenshot (38).png'
-import IMG5 from '../../assests/task.png'
-import IMG6 from '../../assests/chatgpt.png'
+import IMG4 from '../../assests/Screenshot (40).png'
+// import IMG5 from '../../assests/task.png'
+// import IMG6 from '../../assests/chatgpt.png'
 
 
 const Projects = () => {
@@ -52,13 +52,24 @@ const Projects = () => {
           <div className='projects__item-image'>
             <img src={IMG4} alt='' />
           </div>
+          <h3>Notes App</h3>
+          <div className='projects__item-cta'>
+            <a href='https://github.com/Jeeva4000/notefe' className='btn' target='_blank' rel="noreferrer">Frontend</a>
+            <a href='https://github.com/Jeeva4000/notesr' className='btn' target='_blank' rel="noreferrer">Backend</a>
+            <a href='https://notefe.vercel.app' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
+        </article>
+        {/* <article className='projects__item'>
+          <div className='projects__item-image'>
+            <img src={IMG4} alt='' />
+          </div>
           <h3>Car Rental</h3>
           <div className='projects__item-cta'>
             <a href='https://github.com/Jeeva4000/carrental-client' className='btn' target='_blank' rel="noreferrer">Frontend</a>
             <a href='https://github.com/Jeeva4000/carrent-server' className='btn' target='_blank' rel="noreferrer">Backend</a>
             <a href='https://resilient-sunburst-6a6ad5.netlify.app/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
-        </article>
+        </article> */}
         {/* <article className='projects__item'>
           <div className='projects__item-image'>
             <img src={IMG5} alt='' />
