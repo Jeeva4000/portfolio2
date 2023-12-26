@@ -20,7 +20,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Intermediate</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
@@ -28,7 +28,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Intermediate</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
@@ -36,7 +36,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>BOOTSTRAP</h4>
-                <small className='text-light'>Intermediate</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
@@ -44,7 +44,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>MATERIAL UI</h4>
-                <small className='text-light'>Intermediate</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
@@ -52,7 +52,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>JAVASCRIPT</h4>
-                <small className='text-light'>Intermediate</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
@@ -61,7 +61,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>REACT</h4>
-                <small className='text-light'>Intermediate</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
@@ -87,7 +87,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>EXPRESS JS</h4>
-                <small className='text-light'>Basic</small>
+                {/* <small className='text-light'>Basic</small> */}
               </div>
             </article>
 
@@ -95,7 +95,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>MONGODB</h4>
-                <small className='text-light'>Intermediate</small>
+                // <small className='text-light'>Intermediate</small>
               </div>
             </article> */}
 
@@ -103,7 +103,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>NODEJS</h4>
-                <small className='text-light'>Intermediate</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
@@ -111,7 +111,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>AWS</h4>
-                <small className='text-light'>Basic</small>
+                {/* <small className='text-light'>Basic</small> */}
               </div>
             </article>
 
@@ -119,7 +119,7 @@ const Skill = () => {
             {/* <article className='skill__details'>
               <BsFillPatchCheckFill className='skill__details-icon' />
               <h4>REACT</h4>
-              <small className='text-light'>Intermediate</small>
+              // <small className='text-light'>Intermediate</small>
             </article> */}
 
 
@@ -133,7 +133,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>MYSQL</h4>
-                <small className='text-light'>Basic</small>
+                {/* <small className='text-light'>Basic</small> */}
               </div>
             </article>
 
@@ -141,7 +141,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>MONGODB</h4>
-                <small className='text-light'>Intermediate</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
@@ -155,7 +155,7 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>Netlify</h4>
-                <small className='text-light'>Intermediate</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
@@ -163,14 +163,14 @@ const Skill = () => {
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>Vercel</h4>
-                <small className='text-light'>Intermediate</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
             <article className='skill__details'>
               <BsFillPatchCheckFill className='skill__details-icon' />
               <div>
                 <h4>RENDER</h4>
-                <small className='text-light'>Intermediate</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
