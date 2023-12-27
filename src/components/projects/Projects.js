@@ -34,7 +34,7 @@ const Projects = () => {
           <div className='projects__item-cta'>
             <a href='https://github.com/Jeeva4000/capstonefrontend' className='btn' target='_blank' rel="noreferrer">Frontend</a>
             <a href='https://github.com/Jeeva4000/capstonebackend1' className='btn' target='_blank' rel="noreferrer">Backend</a>
-            <a href='https://symphonious-monstera-fae0e9.netlify.app/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href='https://capstonefrontend.vercel.app' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
         <article className='projects__item'>
@@ -45,7 +45,7 @@ const Projects = () => {
           <div className='projects__item-cta'>
             <a href='https://github.com/Jeeva4000/interview' className='btn' target='_blank' rel="noreferrer">Frontend</a>
             <a href='https://github.com/Jeeva4000/interview-notes-server' className='btn' target='_blank' rel="noreferrer">Backend</a>
-            <a href='https://glowing-snickerdoodle-9d7a93.netlify.app/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href='https://interview-ashy.vercel.app' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
         <article className='projects__item'>
