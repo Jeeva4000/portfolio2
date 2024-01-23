@@ -92,7 +92,7 @@ const About = () => {
               <VscProject className='about__icon' />
               <a href={projectsLink} target='_blank' rel='noopener noreferrer'>
                 <h5>Projects</h5>
-                <small>4 Projects</small>
+                <small>7 Projects</small>
               </a>
             </article>
             {/* Add the link to the certificate here */}
