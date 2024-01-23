@@ -63,6 +63,14 @@ h1 {
   font-size: 2.5rem;
 }
 
+h5 {
+  color: darkgoldenrod;
+}
+
+h4 {
+  color: chartreuse;
+}
+
 section {
   margin-top: 8rem;
   /* height: 100vh; */
