@@ -25,13 +25,13 @@ const Projects = () => {
             The frontend provides a user interface, while the backend handles the scraping logic.
           </h4>
 
-          <h1>
+          <h2>
             ⋄ MongoDB
             ⋄ React
             ⋄ Express
             ⋄ nodejs
 
-          </h1>
+          </h2>
           <div className='projects__item-cta'>
             <a href='https://github.com/Jeeva4000/webscrapperbackend' className='btn' target='_blank' rel="noreferrer">Frontend</a>
             <a href='https://github.com/Jeeva4000/webscrappingfrontends' className='btn' target='_blank' rel="noreferrer">Backend</a>
