@@ -5,7 +5,7 @@ import IMG2 from '../../assests/Screenshot (41).png'
 import IMG3 from '../../assests/appnotes.png'
 import IMG4 from '../../assests/Screenshot (40).png'
 import IMG5 from '../../assests/Screenshot (52).png'
-// import IMG6 from '../../assests/chatgpt.png'
+import IMG6 from '../../assests/Screenshot (53).png'
 
 
 const Projects = () => {
@@ -129,6 +129,29 @@ const Projects = () => {
             <a href='https://github.com/Jeeva4000/crudclient' className='btn' target='_blank' rel="noreferrer">Frontend</a>
             <a href='https://github.com/Jeeva4000/crud-serverr' className='btn' target='_blank' rel="noreferrer">Backend</a>
             <a href='https://crudclient.vercel.app/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
+        </article>
+        <article className='projects__item'>
+          <div className='projects__item-image'>
+            <img src={IMG6} alt='' />
+          </div>
+          <h3>Book Store</h3>
+          <h5>
+            The Book Store CRUD App is a web application designed for managing a collection of books. It provides users with the ability to perform essential operations such as adding new books, viewing existing books, updating book details, and removing books from the collection.
+          </h5>
+
+          <h4 className='projects__item-h4'>
+
+            ⋄ React
+            ⋄ MongoDB
+            ⋄ Express
+            ⋄ nodejs
+
+          </h4>
+          <div className='projects__item-cta'>
+            <a href='https://github.com/Jeeva4000/storeclient' className='btn' target='_blank' rel="noreferrer">Frontend</a>
+            <a href='https://github.com/Jeeva4000/storesr' className='btn' target='_blank' rel="noreferrer">Backend</a>
+            <a href='https://storeclient-git-master-jeeva4000.vercel.app/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
         {/* <article className='projects__item'>
