@@ -137,7 +137,7 @@ const Projects = () => {
           </div>
           <h3>Book Store</h3>
           <h5>
-            The Book Store CRUD App is a web application designed for managing a collection of books. It provides users with the ability to perform essential operations such as adding new books, viewing existing books, updating book details, and removing books from the collection.
+            The Book Store  App is a web application designed for managing a collection of books. It provides users with the ability to perform essential operations such as adding new books, viewing existing books, updating book details, and removing books from the collection.
           </h5>
 
           <h4 className='projects__item-h4'>
